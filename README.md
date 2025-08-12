@@ -47,7 +47,7 @@ src/
 ### Passos para rodar
 ```bash
 # Clonar o repositório
-git clone https://github.com/usuario/sccon-people.git
+git clone https://github.com/jeandro/sccon.git
 cd sccon-people
 
 # Executar a aplicação
